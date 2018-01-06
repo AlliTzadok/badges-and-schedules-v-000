@@ -7,4 +7,5 @@ end
 def batch_badge_creator(name)
   speakers.each do |name|
     "Hello, my name is #{name}"
+  end
 end
